@@ -1,0 +1,14 @@
+// Custom styles
+
+body {
+  width: 660px;
+  margin: 30px auto;
+}
+
+.search-form {
+  width: 100%;
+  background-color: #f4f4f4;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 0 20px 20px;
+}

@@ -5,5 +5,6 @@ This is a simple application that allows one to search for movies from the IMDB 
 This app is built using the following:
 - React JS
 - Flux
-- Gulp and
+- Gulp 
+- Bootstrap and
 - Axios 
