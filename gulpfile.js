@@ -17,9 +17,6 @@ gulp.task('copy', function() {
 
   gulp.src('./src/css/*.*')
     .pipe(gulp.dest('dist/css'));
-
-  gulp.src('./src/js/vendors/*.*')
-    .pipe(gulp.dest('dist/js'));
 })
 
 

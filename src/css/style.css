@@ -1,6 +1,6 @@
 // Custom styles
 
-body {
+.app-container {
   width: 660px;
   margin: 30px auto;
 }
@@ -11,4 +11,8 @@ body {
   border: 1px solid #ccc;
   border-radius: 8px;
   padding: 0 20px 20px;
+}
+
+img {
+  width: 100%
 }
